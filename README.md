@@ -3,7 +3,7 @@
 
 ---
 
-## 🌍 About Me
+##  About Me
 I am an **Agro-meteorologist and Climate Data Analyst** Holding an MSc in Agro-meteorology and Natural Risk Manageemnt @Haramaya University, Ethiopia. Specializing in drought monitoring, satellite-based environmental assessment, and geospatial modelling.  
 My work integrates **Earth observation, climate datasets, and data science** to support resilience planning across the Horn of Africa.
 
@@ -11,7 +11,7 @@ I focus on turning raw climate and geospatial data into **actionable insights**,
 
 ---
 
-## 🔬 Research & Technical Interests
+##  Research & Technical Interests
 - 🌦 **Climate Analytics:** NDVI, LST, rainfall anomalies, drought indices (SPI/SPEI)  
 - 🛰 **Remote Sensing:** MODIS, CHIRPS, ERA5, Sentinel, Landsat  
 - 🗺 **Geospatial Analysis:** GIS, raster modelling, spatial statistics  
@@ -43,7 +43,7 @@ I focus on turning raw climate and geospatial data into **actionable insights**,
 
 ---
 
-## 📊 Featured Work & Mini Projects
+##  Featured Work & Mini Projects
 Here are some of the reproducible and visual climate analyses I am building:
 
 - **NDVI Early Warning System — Somaliland (2025)**  
@@ -56,7 +56,7 @@ Here are some of the reproducible and visual climate analyses I am building:
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 - Building a **Climate & Environmental Dashboard** (R + Shiny + GEE)  
 - Developing reproducible rainfall/NDVI anomaly pipelines  
 - Creating geospatial visualizations for public climate communication  
@@ -64,7 +64,7 @@ Here are some of the reproducible and visual climate analyses I am building:
 
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 - **Email:** eid.hussein02@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/ahmedhusseinismail  
 - **GitHub:** *You’re already here!*  
