@@ -52,7 +52,7 @@ Here are some of the reproducible and visual climate analyses I am building:
 - **Vegetation Health Monitoring using MODIS NDVI**  
 - **Machine Learning for Drought Detection**  
 
-➡ More projects coming soon as I publish workflows in R, Python, and GEE.
+ More projects coming soon as I publish workflows in R, Python, and GEE.
 
 ---
 
@@ -65,7 +65,7 @@ Here are some of the reproducible and visual climate analyses I am building:
 ---
 
 ##  Get in Touch
-- **Email:** eid.hussein02@gmail.com  
+- **Email:** ahmed.hussein@haramaya.edu.et  
 - **LinkedIn:** www.linkedin.com/in/ahmedhusseinismail  
 - **GitHub:** *You’re already here!*  
 
