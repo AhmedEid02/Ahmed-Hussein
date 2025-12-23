@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Ahmed Hussein 👋</h1>
-<h3 align="center">Agro-Meteorologist | Climate Data Analyst | GIS & Remote Sensing | Environmental Modelling</h3>
+<h3 align="center">Agro-Meteorologist | Climate Data Analyst | GEE, GIS & Remote Sensing | Climate, Crop & Environmental Modelling</h3>
 
 ---
 
 ## 🌍 About Me
-I am an **Agro-meteorologist and Climate Data Analyst** specializing in drought monitoring, satellite-based environmental assessment, and geospatial modelling.  
+I am an **Agro-meteorologist and Climate Data Analyst** Holding an MSc in Agro-meteorology and Natural Risk Manageemnt @Haramaya University, Ethiopia. Specializing in drought monitoring, satellite-based environmental assessment, and geospatial modelling.  
 My work integrates **Earth observation, climate datasets, and data science** to support resilience planning across the Horn of Africa.
 
 I focus on turning raw climate and geospatial data into **actionable insights**, reproducible workflows, and open-source tools.
@@ -66,7 +66,7 @@ Here are some of the reproducible and visual climate analyses I am building:
 
 ## 📬 Get in Touch
 - **Email:** eid.hussein02@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ahmed-hussein  
+- **LinkedIn:** www.linkedin.com/in/ahmedhusseinismail  
 - **GitHub:** *You’re already here!*  
 
 ---
