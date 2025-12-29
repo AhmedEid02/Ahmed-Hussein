@@ -65,7 +65,7 @@ Here are some of the reproducible and visual climate analyses I am building:
 ---
 
 ##  Get in Touch
-- **Email:** ahmed.hussein@haramaya.edu.et  
+- **Email:** ahmed.hussein@haramaya.edu.et  / eid.hussein02@gmail.com
 - **LinkedIn:** www.linkedin.com/in/ahmedhusseinismail  
 - **GitHub:** https://github.com/AhmedEid02
 ---
