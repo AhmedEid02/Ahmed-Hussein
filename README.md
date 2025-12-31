@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Hussein 👋</h1>
-<h3 align="center">Agro-Meteorologist | Climate Data Analyst | GEE, GIS & Remote Sensing | Climate, Crop & Environmental Modelling</h3>
+<h3 align="center">Agro-Meteorologist | Climate Scientist |Geospatial Data Analyst | GEE, R, GIS & Remote Sensing | Climate, Crop & Environmental Modelling</h3>
 
 ---
 
