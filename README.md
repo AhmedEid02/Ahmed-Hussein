@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Hussein 👋</h1>
 <h3 align="center">
 Agro-Meteorologist | Climate Scientist | Geospatial Data Analyst <br>
-GEE • R • GIS • Remote Sensing • Climate & Environmental Modelling
+GEE • R • GIS • Remote Sensing |Climate & Environmental Modelling
 </h3>
 
 ---
