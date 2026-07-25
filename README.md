@@ -41,8 +41,29 @@ I am the:
 
 - **Founder of the Community-Centered Climate Resilience Initiative (C3RI)**
 - **Founder and Project Lead of Adaptive Action Intelligence (AAI)**
-- **Lecturer in Climate Science and Agro-Meteorology**
+- **Early-Career Researcher and Educator in Climate Science and Agro-Meteorology**
 - **Independent researcher working on climate risk, food security, resilience, and geospatial evidence**
+
+---
+
+
+## 📚 Recent Publication
+
+### *Three decade rainfall and temperature variability and climate information services shaping smallholder resilience in semi arid Somaliland*
+
+<p>
+  <img src="https://img.shields.io/badge/Journal-Discover%20Sustainability-2E7D32?style=for-the-badge" alt="Discover Sustainability">
+  <img src="https://img.shields.io/badge/Article-Research-1565C0?style=for-the-badge" alt="Research Article">
+  <img src="https://img.shields.io/badge/Access-Open%20Access-F57C00?style=for-the-badge" alt="Open Access">
+  <img src="https://img.shields.io/badge/Published-21%20July%202026-6A1B9A?style=for-the-badge" alt="Published 21 July 2026">
+</p>
+
+**Authors:** Ahmed Hussein Ismail, Mengistu Mengesha Maja & Abdisa Alemu Tolossa  
+**Journal:** *Discover Sustainability*  
+**Published:** 21 July 2026  
+**Role:** First author
+
+This study brings together three decades of rainfall and temperature analysis with household-level evidence on Climate Information Services and smallholder resilience in semi-arid Somaliland. It reflects my wider focus on connecting climate evidence, farmer decision-making, and locally relevant resilience action.
 
 ---
 
